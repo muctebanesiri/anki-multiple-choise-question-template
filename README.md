@@ -1,6 +1,6 @@
 ### Multiple Choice Question Template for Anki
 
-This repository contains simple HTML and CSS code for front and back cards, designed specifically for styling multiple choice questions in Anki. All credits go to u/12yardsfootball for the original code; I've adapted it to support RTL (right-to-left) languages like Persian.
+This repository contains simple JavaScript, HTML and CSS code for front and back cards, designed specifically for styling multiple choice questions in Anki. All credits go to u/12yardsfootball for the original code; I've adapted it to support RTL (right-to-left) languages like Persian.
 
 ### Instructions for Creating Cards
 
