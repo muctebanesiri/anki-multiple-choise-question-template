@@ -1,0 +1,73 @@
+.container:hover {
+cursor:pointer
+}
+
+.card {
+font-family:arial;
+font-size:20px;
+text-align:left;
+color:#000;
+background-color:#fff
+}
+
+.container {
+display:flex;
+padding:5px
+}
+
+.option {
+display:block;
+border-radius:8px;
+padding:2px 5px
+}
+
+.circle {
+position:relative;
+width:20px;
+height:20px;
+border-radius:50%;
+left:-5px;
+display:inline-block;
+flex-shrink:0;
+top:5px
+}
+
+.circleF {
+background:#ff595a
+}
+
+.circleT {
+background:#059862
+}
+
+.circleF::before {
+content:"✖";
+position:relative;
+font-size:14px;
+left:4.5px;
+bottom:3px
+}
+
+.circleT::before {
+content:"✔";
+position:relative;
+font-size:14px;
+left:4.5px;
+bottom:3px
+}
+
+.true {
+font-size:25px;
+font-weight:700;
+background:#c7f1dc
+}
+
+input[type="radio"] {
+width:20px;
+height:20px;
+border:.15em solid currentColor;
+position:relative;
+top:2px;
+display:inline-block;
+flex-shrink:0
+}
