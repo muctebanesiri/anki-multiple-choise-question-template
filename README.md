@@ -20,7 +20,7 @@ If you wish to use these templates to create cards in the future, follow these s
 3. **Set Up Cards**
    - With the "MCQ" note type selected, go to "Cards".
    - Paste the provided code for the Front Template and Back Template accordingly.
-### codes
+### Codes
 
 1. Front Template
 ```javascript
