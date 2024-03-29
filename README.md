@@ -3,7 +3,6 @@
 This repository contains simple JavaScript, HTML and CSS code for front and back cards, designed specifically for styling multiple choice questions in Anki.
 
 
-![Uploading image.png…]()
 
 
 
