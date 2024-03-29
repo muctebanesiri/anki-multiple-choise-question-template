@@ -2,6 +2,11 @@
 
 This repository contains simple JavaScript, HTML and CSS code for front and back cards, designed specifically for styling multiple choice questions in Anki.
 
+
+![Uploading image.png…]()
+
+
+
 ### Instructions for Creating Cards
 
 If you wish to use these templates to create cards in the future, follow these steps:
