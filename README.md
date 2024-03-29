@@ -2,8 +2,8 @@
 
 This repository contains simple JavaScript, HTML and CSS code for front and back cards, designed specifically for styling multiple choice questions in Anki.
 
-![tuis](https://github.com/muctebanesiri/anki-multiple-choise-question-template/assets/108553374/ad97bd11-a217-4d9d-9198-4c78fa720550)
 
+![tuis](https://github.com/muctebanesiri/anki-multiple-choise-question-template/assets/108553374/30477205-23b8-408c-a60e-52e3509bd7f1)
 
 
 ### Instructions for Creating Cards
