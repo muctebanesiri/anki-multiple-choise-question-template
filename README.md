@@ -8,7 +8,7 @@ This repository contains simple JavaScript, HTML and CSS code for front and back
 
 ### Instructions for Creating Cards
 
-https://youtu.be/xgRmOmN_gjE
+[![video tutorial](https://img.youtube.com/vi/xgRmOmN_gjE/0.jpg)](https://www.youtube.com/watch?v=xgRmOmN_gjE)
 
 If you wish to use these templates to create cards in the future, follow these steps:
 
