@@ -10,8 +10,6 @@ This repository contains simple JavaScript, HTML and CSS code for front and back
 ### Watch video tutorial on YouTube
 
 [![video tutorial](https://img.youtube.com/vi/xgRmOmN_gjE/0.jpg)](https://www.youtube.com/watch?v=xgRmOmN_gjE)
-[![video tutorial](https://img.youtube.com/vi/xgRmOmN_gjE/0.jpg)](https://www.youtube.com/watch?v=xgRmOmN_gjE)
-
 
 
 ### Instructions for Creating Cards
