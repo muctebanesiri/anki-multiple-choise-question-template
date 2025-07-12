@@ -1,10 +1,10 @@
 # 🌟 Multiple Choice Question Template for Anki
 
-This repository contains simple JavaScript, HTML, and CSS code for front and back cards, designed specifically for styling multiple choice questions in Anki. 🎉
+This repository contains simple JavaScript, HTML, and CSS code for front and back cards, designed specifically for styling multiple choice questions in Anki. 
 
 ![preview](https://github.com/muctebanesiri/anki-multiple-choise-question-template/assets/108553374/30477205-23b8-408c-a60e-52e3509bd7f1)
 
-### 📹 Watch Video Tutorial on YouTube
+### Watch Video Tutorial on YouTube
 
 [![video tutorial](https://img.youtube.com/vi/xgRmOmN_gjE/0.jpg)](https://www.youtube.com/watch?v=xgRmOmN_gjE)
 
