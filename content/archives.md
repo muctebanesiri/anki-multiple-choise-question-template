@@ -1,4 +1,0 @@
----
-title: "آرشیو"
-layout: "archives"
----
