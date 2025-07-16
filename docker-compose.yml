@@ -1,0 +1,12 @@
+# https://github.com/demystifying-dev/docker-compose-hugo-app-builder
+version: "3"
+
+services:
+  hugoapp:
+    image: klakegg/hugo
+    container_name: aprd-hugo
+    command: server --buildDrafts --port 8888
+    volumes: 
+      - .:/src
+    ports:
+      - "8888:8888"

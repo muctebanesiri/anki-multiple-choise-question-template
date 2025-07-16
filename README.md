@@ -1,36 +1,18 @@
-# 🌟 Multiple Choice Question Template for Anki
+# hugo-papermod-farsi-template
 
-This repository contains simple JavaScript, HTML, and CSS code for front and back cards, designed specifically for styling multiple choice questions in Anki. 
+To use this template Just change the url and then go to Settings > Pages > Build and Deployment > Source > Github Action. 
 
-![preview](https://github.com/muctebanesiri/anki-multiple-choise-question-template/assets/108553374/30477205-23b8-408c-a60e-52e3509bd7f1)
+Also, remember to enable github actions from actions tab. 
 
-### Watch Video Tutorial on YouTube
+For now, Hugo has some problems with Github Actions for example, the font doesn't render well ([+](https://dev.to/github/how-to-host-a-static-nextjs-site-on-github-pages-4pe0)). You should set your base url like this:
+`<your-username>.github.io` not `<you-username>github.io/repo_path`. 
 
-[![video tutorial](https://img.youtube.com/vi/xgRmOmN_gjE/0.jpg)](https://www.youtube.com/watch?v=xgRmOmN_gjE)
+You should also name your repository with `<your-username>.github.io`.
 
-###  Instructions for Creating Cards
+If you want to use this with netlify. You do not need any configuration. Just remember to set publishdir to `public`. 
 
-If you wish to use these templates to create cards in the future, follow these steps:
-
-1. **Manage Note Types** 
-   - Go to `Manage Note Types`.
-   - Click `Add`.
-   - Select `Add: Basic`.
-   - Change the name to "MCQ".
-
-2. **Define Fields** 
-   - Select the newly created "MCQ" note type and navigate to "Fields".
-   - Add the required fields for your multiple choice question.
-   - Save the changes.
-
-3. **Set Up Cards** 
-   - With the "MCQ" note type selected, go to "Cards".
-   - Paste the provided code for the Front and Back Template and style accordingly.
-
-###  Code Credits
-
-The original code was provided by Ashraf Nabil and u/12yardsfootball. I've made some modifications to ensure proper right-to-left (RTL) support for Persian, along with some other minor adjustments.
-
-###  Usage
-
-Feel free to use, modify, and customize the template for your own Anki flashcard decks. If you encounter any problems, please create an issue.
+If you want to clone this repo:
+```
+git clone <repo_url>
+git submodule update --init --recursive # clone submodules
+```
