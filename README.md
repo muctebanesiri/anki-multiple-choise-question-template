@@ -6,7 +6,8 @@ This repository contains simple JavaScript, HTML, and CSS code for front and bac
 
 ### Watch Video Tutorial on YouTube
 
-[![video tutorial](https://img.youtube.com/vi/xgRmOmN_gjE/0.jpg)](https://www.youtube.com/watch?v=xgRmOmN_gjE)
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/xgRmOmN_gjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 ###  Instructions for Creating Cards
 
